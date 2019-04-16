@@ -1,0 +1,76 @@
+body{
+		color: black;
+    font-family: tahoma; 
+    font-size: 12px; 
+    background-color: aliceblue;
+    
+   
+} 
+
+#wrapper{
+		width: 1000px;
+
+} 
+
+#header{
+  	color: lightblue; 
+    font-family: arial; 
+    font-size: 12px; 
+		background-color: AliceBlue;
+		padding: 25px;
+		width: 950px;
+		float: left; 
+
+}
+
+#main{
+	 text-align: center;
+  	color: black; 
+    font-family: tahoma; 
+    font-size: 12px; 
+		background-color: AliceBlue;
+		margin: auto; 
+		padding: 25px;
+		width: 700px;
+		height: 150px; 
+		float: right; 
+		
+
+} 
+
+#sidebar{
+  	color: white; 
+    font-family: tahoma; 
+    font-size: 12px; 
+		background-color: lightblue;
+		padding: 25px;
+		width: 200px;
+    height: 450px; 
+		float: left;
+
+} 
+
+#footer{
+  	clear: both; 
+  	color: black; 
+    font-family: arial; 
+    font-size: 13px; 
+		background-color: blue;
+		padding: 20px;
+		width: 100%;
+		bottom: 0;
+		position: fixed;
+		float: left;
+	
+} 
+
+#sidebar ul li {
+		display: inline-block;
+		width: 30%;
+		font-size: 130%;
+		padding: 20px;
+		margin-bottom: 5px;
+		background: AliceBlue;
+		border: 0px solid #1d2c3e;
+
+}

@@ -1,0 +1,50 @@
+<html>
+    
+  <head>
+	    <title>Ahmed's Website</title>
+	    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+
+<div id="wrapper">
+
+<div id="header">
+    <h1>Welcome to My Website!</h1>
+</div>
+
+<div id="sidebar">
+   <ul>
+     <li class="A"><a href="index.html">Home</a></li>
+     <li class="A"><a href="favorites.html">Favorites</a></li>
+     <li class="B"><a href="photos.html">Photos</a></li>
+     <li class="C"><a href="contact.html">Contact</a></li>
+     <li class="C"><a href="nyot.html">NYOT</a></li>
+      </ul>
+</div>
+ 
+<div id="main">
+    
+    <img src="https://www.fundaciontelevisa.org/televisa_foundation/tech/img/jessica/15.png" height="300">
+    <h3>Top 5 Favorite Foods</h3> 
+    
+    <P> My Favorite Foods</P> 
+
+<b>Foods</b>          <br>
+            <o>
+              <li>Pizza</li>
+              <li>Fried Chicken</li>
+              <li>lasagna</li>
+              <li>Pasta</li>
+              <li>Pastrami Sandwich</li> 
+            </o> 
+      
+</div>
+
+<div id="footer">
+		<p>This website was made by Ahmed Alsubai</p>
+</div>
+
+</div>
+</body>
+</html> 
